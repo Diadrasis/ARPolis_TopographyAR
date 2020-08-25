@@ -8,7 +8,7 @@
 # Topography AR Unity Plugin
 Provide access to the built-in gyroscope, accelerometer and compass in mobile devices and uses location tracking and apply mapping technology to create an 'augmented reality' where users react with the real world to gain information.
 
-## Installation and Quick Start
+## Installation
 
 1. Import latest DLL from [Releases](https://github.com/Diadrasis/ARPolis_TopographyAR/releases) into Plugin folder in Assets folder.
 
