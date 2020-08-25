@@ -6,7 +6,7 @@
 </p>
 
 # Topography AR Unity Plugin
-A plugin to ...
+Provide access to the built-in gyroscope, accelerometer and compass in mobile devices and uses location tracking and apply mapping technology to create an 'augmented reality' where users react with the real world to gain informations.
 
 ## Installation and Quick Start
 
