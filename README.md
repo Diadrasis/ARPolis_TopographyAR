@@ -10,9 +10,7 @@ A plugin to ...
 
 ## Installation and Quick Start
 
-1. Import latest DLL from [Releases](https://github.com/Diadrasis/ARPolis_TopographyNarrations/releases) into Plugin folder in Assets folder.
-
-2. Read the example script [ExampleCases.cs] for instructions.
+1. Import latest DLL from [Releases](https://github.com/Diadrasis/ARPolis_TopographyAR/releases) into Plugin folder in Assets folder.
 
 <!--//## Changelog-->
 
