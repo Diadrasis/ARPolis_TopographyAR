@@ -1,0 +1,12 @@
+C:\Unity Projects\DLLs\ARPolis_TopographyAR\TopographyAR\bin\Debug\netstandard2.0\TopographyAR.deps.json
+C:\Unity Projects\DLLs\ARPolis_TopographyAR\TopographyAR\bin\Debug\netstandard2.0\TopographyAR.dll
+C:\Unity Projects\DLLs\ARPolis_TopographyAR\TopographyAR\bin\Debug\netstandard2.0\TopographyAR.pdb
+C:\Unity Projects\DLLs\ARPolis_TopographyAR\TopographyAR\bin\Debug\netstandard2.0\UnityEngine.dll
+C:\Unity Projects\DLLs\ARPolis_TopographyAR\TopographyAR\bin\Debug\netstandard2.0\UnityEngine.xml
+C:\Unity Projects\DLLs\ARPolis_TopographyAR\TopographyAR\obj\Debug\netstandard2.0\TopographyAR.csprojAssemblyReference.cache
+C:\Unity Projects\DLLs\ARPolis_TopographyAR\TopographyAR\obj\Debug\netstandard2.0\TopographyAR.csproj.CoreCompileInputs.cache
+C:\Unity Projects\DLLs\ARPolis_TopographyAR\TopographyAR\obj\Debug\netstandard2.0\TopographyAR.AssemblyInfoInputs.cache
+C:\Unity Projects\DLLs\ARPolis_TopographyAR\TopographyAR\obj\Debug\netstandard2.0\TopographyAR.AssemblyInfo.cs
+C:\Unity Projects\DLLs\ARPolis_TopographyAR\TopographyAR\obj\Debug\netstandard2.0\TopographyAR.csproj.CopyComplete
+C:\Unity Projects\DLLs\ARPolis_TopographyAR\TopographyAR\obj\Debug\netstandard2.0\TopographyAR.dll
+C:\Unity Projects\DLLs\ARPolis_TopographyAR\TopographyAR\obj\Debug\netstandard2.0\TopographyAR.pdb
